@@ -1,6 +1,5 @@
 # Management-Gudang
-Open the PHPMyAdmin in your laptop
+Open PHPMyAdmin on your laptop
 create database in phpmyadmin "managementgudang"
-open the database 
-import the file .db to phpmyadmin
-end
+Open the database that was created
+import the .db file into phpmyadmin
